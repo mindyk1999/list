@@ -1,0 +1,7 @@
+<style>
+.google-visualization-table-table th, .google-visualization-table-table td {
+    border: solid #006399;
+    border-width: 0px 0px 0px 2px;
+    padding: 8px .35em;
+}
+</style>
